@@ -1,0 +1,67 @@
+Next, we will create our CSS file. In this file, we will use some basic CSS rules to create our login form. We will also add some padding and margin properties to ensure that everything looks correct.
+
+This will give our login form an upgraded presentation. Create a CSS file with the name of styles.css and paste the given codes into your CSS file. Remember that you must create a file with the .css extension.
+
+Body Styling
+
+Margin and Padding: Removes default margin and padding to eliminate extra space around the body.
+Font Family: Sets the font to "Roboto" for a clean, modern look.
+Background: Applies a linear gradient background from blue to red, ensuring it covers the entire viewport without repeating.
+Height and Overflow: Sets the body height to fill the viewport and hides any overflow content to prevent scrolling.
+Center Class
+
+Positioning: Positions the element absolutely at the center of the viewport using top, left, and transform.
+Width and Background: Sets a specific width and a white background for contrast.
+Border Radius: Rounds the corners for a smoother look.
+Center Header (h1)
+
+Text Alignment and Padding: Centers the text and adds padding below it.
+Border: Adds a silver bottom border to separate the header from the form.
+Form Styling
+
+Padding and Box Sizing: Adds padding around the form content and ensures padding is included in the element's total width and height.
+Text Field Class
+
+Positioning and Border: Positions elements within it and adds a bottom border.
+Margin: Adds vertical spacing around the text fields.
+Text Field Input
+
+Width and Padding: Makes the input fields full width and adds padding for better spacing.
+Font Size and Background: Adjusts font size and removes the default background.
+Border and Outline: Removes the border and outline for a cleaner look.
+Text Field Label
+
+Positioning and Color: Positions the label inside the input field and sets a gray color.
+Font Size and Pointer Events: Sets font size and prevents the label from being clickable.
+Transform: Vertically centers the label.
+Text Field Span
+
+Pseudo Element: Creates a line below the input field that animates when the input is focused or valid.
+Position and Size: Positions the line and sets its initial size to zero.
+Background and Transition: Adds a blue background and a transition effect for smooth animation.
+Text Field Input Focus and Valid States
+
+Label Position and Color: Moves the label up and changes its color when the input is focused or valid.
+Span Width: Expands the line under the input field.
+Password Reset Link
+
+Margin and Color: Adds margin and sets a gray color.
+Cursor: Changes the cursor to a pointer for interactivity.
+Hover Effect: Underlines the text on hover.
+Submit Button
+
+Size and Border: Sets the width and height and adds a border.
+Border Radius and Font: Rounds the corners and sets font size and weight.
+Cursor: Changes the cursor to a pointer for interactivity.
+Hover Effect: Changes background color and text color on hover with a transition effect.
+Signup Link
+
+Margin and Text Alignment: Adds margin and centers the text.
+Font Size and Color: Sets font size and gray color.
+Signup Link Anchor
+
+Color and Decoration: Change the link color and remove the underline.
+Hover Effect: Underlines the link on hover.
+HomeAbout Class
+
+Width and Height: Sets the element's width to the viewport width and height to 25% of the viewport height.
